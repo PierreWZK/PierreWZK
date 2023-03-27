@@ -31,6 +31,7 @@
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
   
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
